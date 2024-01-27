@@ -1,4 +1,4 @@
-## BepInLoader
+![BepInLoader](https://github.com/refa124/BepInLoader/blob/main/Assets/Logotype.png)
 
 По сути упрощение или маленькое улучшение для структуры папки игры (RUST Cracked) в условиях когда охота реализовать модификацию, но при нет желания добавлять ещё десяток два лишних файлов и тд..
 
