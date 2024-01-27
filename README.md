@@ -13,6 +13,6 @@
 
 ----
 
-##### За основу взял [NeighTools/UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - v4.0.0
+##### За референс взял ([NeighTools/UnityDoorstop](https://github.com/NeighTools/UnityDoorstop) - v4.0.0), ну и документацию/исходный код [Dotnet Runtime](https://github.com/dotnet/runtime)
 
 ----
